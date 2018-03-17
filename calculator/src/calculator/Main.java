@@ -30,8 +30,8 @@ public class Main {
 				result = firstNumber / secondNumber;
 			}
 
-			System.out.println("The first number is: " + firstNumber);
-			System.out.println("The second number is: " + secondNumber);
+			System.out.println("First number is: " + firstNumber);
+			System.out.println("Second number is: " + secondNumber);
 			System.out.println("The result is: " + result);
 		}
 
