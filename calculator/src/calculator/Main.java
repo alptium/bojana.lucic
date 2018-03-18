@@ -16,7 +16,7 @@ public class Main {
 
 			System.out.println("Enter your second number");
 			int secondNumber = sc.nextInt();
-
+			
 			System.out.println("Calculating the results...");
 			int result = 0;
 
